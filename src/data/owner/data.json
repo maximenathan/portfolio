@@ -1,0 +1,42 @@
+{
+  "firstname": "Maxime",
+  "lastname": "Soufflet",
+  "born": "Mon Dec 03 1990 12:00:00 GMT+0100",
+  "presentation": "Born in 1990 in Reunion Island, France, I had the opportunity to live in many countries: Congo, Yemen, Saudi Arabia, French Guyana and South Korea. These experiences have opened my mind and increased my ability to adapt to new situations. Through a regular practice of fitness activities and E-sport, I learned precision, consistency, competitiveness. I want to challenge myself by improving my learning skills to be a real asset in my working place.",
+  "interests": [
+    {
+      "type": "hobby",
+      "name": "Photography",
+      "qualifiers": [
+        "enjoying",
+        "learning"
+      ]
+    },
+    {
+      "type": "hobby",
+      "name": "Lifting",
+      "qualifiers": [
+        "love"
+      ]
+    },
+    {
+      "type": "hobby",
+      "name": "Running"
+    },
+    {
+      "type": "work",
+      "name": "functional programming",
+      "qualifiers": [
+        "enthusiasm"
+      ]
+    },
+    {
+      "type": "work",
+      "name": "react",
+      "qualifiers": [
+        "hooks!",
+        "developer"
+      ]
+    }
+  ]
+}
