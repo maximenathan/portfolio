@@ -2,7 +2,7 @@
   "compilerOptions": {
     "outDir": "build/dist",
     "module": "commonjs",
-    "target": "esnext",
+    "target": "es5",
     "lib": ["esnext", "dom"],
     "sourceMap": true,
     "strict": true,
@@ -12,11 +12,12 @@
     "jsx": "react",
     "moduleResolution": "node",
     "rootDir": "src",
-    "noImplicitReturns": true,
+    "noImplicitReturns": false,
     "noImplicitThis": true,
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "strictNullChecks": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "skipLibCheck": true
   },
   "exclude": ["node_modules", "public", ".cache"],
   "include": ["src"]

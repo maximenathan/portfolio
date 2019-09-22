@@ -7,36 +7,37 @@
     {
       "type": "hobby",
       "name": "Photography",
-      "qualifiers": [
-        "enjoying",
-        "learning"
-      ]
+      "qualifiers": ["practice", "learn"]
     },
     {
       "type": "hobby",
       "name": "Lifting",
-      "qualifiers": [
-        "love"
-      ]
+      "qualifiers": ["enjoy"]
     },
     {
       "type": "hobby",
-      "name": "Running"
+      "name": "Run",
+      "qualifiers": ["Need to"]
     },
     {
       "type": "work",
-      "name": "functional programming",
-      "qualifiers": [
-        "enthusiasm"
-      ]
+      "name": "Functional programming",
+      "qualifiers": ["learn"]
     },
     {
       "type": "work",
-      "name": "react",
-      "qualifiers": [
-        "hooks!",
-        "developer"
-      ]
+      "name": "React",
+      "qualifiers": ["love"]
+    },
+    {
+      "type": "work",
+      "name": "Hooks!",
+      "qualifiers": ["love"]
+    },
+    {
+      "type": "hobby",
+      "name": "Hike",
+      "qualifiers": ["have to"]
     }
   ]
 }

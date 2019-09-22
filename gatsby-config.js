@@ -1,3 +1,4 @@
+/* eslint-disable */
 module.exports = {
   siteMetadata: {
     title: `Gatsby Default Starter`,
@@ -14,6 +15,7 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    `gatsby-plugin-eslint`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-typescript`,
     `gatsby-plugin-styled-components`,
